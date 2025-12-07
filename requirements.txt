@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+matplotlib
+xlsxwriter
+supabase
+openpyxl
